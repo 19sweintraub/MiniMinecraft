@@ -1,0 +1,6 @@
+Utilized provided code base from shaderfun HW4/5 to implement texturing... namely I used the texture.h and texture.cpp functions
+Utilized majority of bling phong shader program from HW4/5
+Referred to http://www.opengl-tutorial.org/beginners-tutorials/tutorial-5-a-textured-cube/ for help on texturing
+Referred to https://stackoverflow.com/questions/21513763/drawing-multiple-models-using-multiple-opengl-vbos for higher level understanding of using multiple VBOs
+Discussed my method of implementing mulitple VBOs with garret darley
+Referred to http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-10-transparency/ for info about glsl transparency

@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sounds/footsteps.wav</file>
+        <file>sounds/creepy.wav</file>
+        <file>sounds/wind.wav</file>
+        <file>sounds/river.wav</file>
+    </qresource>
+</RCC>

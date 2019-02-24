@@ -1,0 +1,20 @@
+Chris Kao: 
+
+12/9/18 - Posted on Piazza about the problem with sky not showing up when merging procedural sky with post processing shader. Didn’t get a response in time.
+
+12/8/18 - Read 3 Piazza posts on procedural sky generation.
+
+12/6/18 - Asked Professor at his office hours about the 4 channels of color. The fix was to use vec4 and to also take into account the screen dimensions for retina screen.
+
+Sam Weintraub: 
+
+12/6: Post process render buffer inspired from HW4/5
+12/6: Referred to http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-14-render-to-texture/ when implementing render buffers
+12/8: Used gaussian blur from HW4/5
+12/8: Worley Noise from HW4/5 inspired from https://thebookofshaders.com/12/
+
+Omkar Savant: 
+
+12/6: Went to office hours to ask about what an interesting pathfinding algorithm would look like for the NPCs. 
+
+12/10: Used QSound tutorial for help with sounds: http://doc.qt.io/archives/qt-4.8/qsound.html
